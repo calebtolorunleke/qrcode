@@ -1,0 +1,21 @@
+body {
+  background-color: #cbd5e1;
+  margin: 0;
+  padding: 0;
+}
+section {
+  max-width: 1450px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 20%;
+  text-align: center;
+}
