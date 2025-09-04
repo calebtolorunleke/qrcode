@@ -16,7 +16,7 @@ section {
   background-color: white;
   padding: 1rem;
   border-radius: 1rem;
-  max-width: 18rem;
+  max-width: 20rem;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -26,12 +26,12 @@ section {
 }
 .imgContainer {
   background-color: #2563eb;
-  padding: 3rem;
+  padding: 4rem;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 1rem;
 }
 .txtContainer {
-  padding: 1rem;
+  padding: 1.5rem;
 }
